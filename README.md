@@ -1,16 +1,36 @@
-<!-- Encabezado con imagen llamativa -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f1ec3f3b-c4fb-432b-a629-0b7fba50e13c" alt="Banner Header" style="border-radius: 10px;" width="100%">
-</p>
-
-<h1 align="center">🎓 Estudiante de Tecnología de la Información</h1>
-<h2 align="center">📍 Universidad Técnica de Ambato</h2>
+<h1 align="center">👋 ¡Hola! Soy Steeven </h1>
+<h3 align="center">🎓 Estudiante en la Universidad Técnica de Ambato | 🚀 Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,docker,vscode" alt="Tech Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Full-Stack+Developer;Software+Engineer;Database+Expert" alt="Typing SVG" />
 </p>
 
 ---
+
+## 💻 Tecnologías y Herramientas
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat)
+
+### 🔙 Backend
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![REST API](https://img.shields.io/badge/Web%20API-00599C?logo=internet-explorer&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-6DB33F?logo=spring&logoColor=white)
+
+### 🗄 Bases de Datos
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?logo=mongodb&logoColor=white)
+
+---
+
 
 ## 🚀 Sobre Mí
 
