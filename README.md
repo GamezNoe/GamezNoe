@@ -1,64 +1,49 @@
-<!-- 🎮 Simulación de videojuego en HTML + Markdown -->
-<div align="center">
-  
-<h1 style="color:#00ffcc; font-family:Courier New;">🕹️ ~ INICIANDO MODO JUGADORA ~</h1>
+<!-- Encabezado con imagen de portada -->
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="Banner" width="100%">
+</p>
 
-<pre style="background-color:black; color:#00ffcc; padding: 20px; border-radius: 10px; font-size:16px; display:inline-block; font-family:'Courier New'; max-width:600px;">
-
-🎓 UNIVERSIDAD TÉCNICA
-💾 CARRERA: TECNOLOGÍA DE LA INFORMACIÓN
-
-🧍 JUGADORA: Tú
-❤️ VIDA: ██████████ 100%
-🧠 CONOCIMIENTO: ███████░░ 70%
-🔥 PASIÓN: ██████████ 100%
-
-🎯 MISIÓN ACTUAL:
-"Dominar el desarrollo web y bases distribuidas"
-
-🛠️ INVENTARIO:
-[C#] [MySQL] [HTML/CSS/JS] [Git] [VS Code] [Docker⚙️]
-
-📍 ZONA ACTUAL: Laboratorio de Proyectos
-🧩 ENEMIGO PRÓXIMO: Entregas Finales 💣
-🏆 OBJETIVO: Convertirse en Desarrolladora Full Stack 🌐
-
-</pre>
-
-<h3 style="color:#ff69b4;">🔽 ¡Explora el resto del juego! 🔽</h3>
-
-</div>
+<h1 align="center">¡Hola, soy [Tu Nombre]! 👋</h1>
+<h3 align="center">Estudiante de Tecnología de la Información en la Universidad Técnica</h3>
 
 ---
 
-## 👩‍💻 Sobre Mí
+## 🧠 Sobre Mí
 
-Hola! Soy una estudiante de **Tecnología de la Información** en la **Universidad Técnica**.  
-Apasionada por resolver problemas y crear soluciones útiles con tecnología. 🌟
-
----
-
-## 💡 Habilidades
-
-- 💻 Programación: <strong>C#, JavaScript, HTML, CSS</strong>  
-- 🧠 Lógica y Arquitectura: <strong>MVC, REST, APIs</strong>  
-- 🗄️ Bases de Datos: <strong>MySQL, SQL Server</strong>  
-- ☁️ Herramientas: <strong>Git, VS Code, Docker</strong>
+Apasionada por la tecnología y el desarrollo de software, actualmente me encuentro cursando la carrera de **Tecnología de la Información** en la **Universidad Técnica**. Me encanta aprender y enfrentar nuevos desafíos que me permitan crecer profesionalmente.
 
 ---
 
-## 🌟 Proyectos Destacados
+## 💻 Tecnologías y Herramientas
 
-- 💊 Sistema de Gestión Hospitalaria  
-- 📡 App Distribuida con APIs REST  
-- 🎨 Interfaz Web con estilo moderno y responsivo
+- Lenguajes de programación: `C#`, `JavaScript`, `HTML/CSS`
+- Bases de datos: `MySQL`, `SQL Server`
+- Herramientas: `Git`, `Visual Studio`, `VS Code`
+- Aprendiendo: `Docker`, `APIs REST`, `Arquitectura MVC`
 
 ---
 
+## 📂 Proyectos Destacados
 
+### 💊 Sistema de Gestión Hospitalaria
+Descripción breve del proyecto.
 
-<div align="center">
-<em style="color:#999;">“Estudiar Tecnología de la Información es como jugar un RPG de sabiduría infinita...”</em><br>
-✨ ¡Gracias por pasarte por mi perfil, jugador@! ✨
-</div>
+### 📦 Aplicaciones Distribuidas con Docker
+Descripción breve del proyecto.
 
+### 🌐 Interfaz Web con HTML/CSS/JS
+Descripción breve del proyecto.
+
+---
+
+## 📫 Contacto
+
+- Correo: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
+- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- GitHub: [github.com/tuusuario](https://github.com/tuusuario)
+
+---
+
+<p align="center">
+  <img src="https://your-image-url.com/footer.png" alt="Footer" width="100%">
+</p>
