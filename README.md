@@ -55,12 +55,7 @@ Apasionada por resolver problemas y crear soluciones útiles con tecnología. �
 
 ---
 
-## 📫 Contacto
 
-- 📧 Email: [tucorreo@ejemplo.com]  
-- 💼 GitHub / LinkedIn: [TuNombreUsuario]
-
----
 
 <div align="center">
 <em style="color:#999;">“Estudiar Tecnología de la Información es como jugar un RPG de sabiduría infinita...”</em><br>
