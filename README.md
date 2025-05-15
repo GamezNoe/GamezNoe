@@ -1,9 +1,3 @@
-<h1 align="center">👋 ¡Hola! Soy Steeven </h1>
-<h3 align="center">🎓 Estudiante en la Universidad Técnica de Ambato | 🚀 Full-Stack Developer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Full-Stack+Developer;Software+Engineer;Database+Expert" alt="Typing SVG" />
-</p>
 
 ---
 
